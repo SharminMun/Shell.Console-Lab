@@ -2,6 +2,7 @@
 
 ## Objectives
 
+
 1. In this lab students will learn to navigate their file system using only the terminal
 2. Students will practice using the following commands to traverse directories and investigate their contents: `pwd`, `ls`, `cd`, `cat`, `less`, `grep`
 3. Why? well, for forever coders have used the shell to interact with a computer, as it can be, with practice, very efficient and _fast_.
@@ -191,3 +192,4 @@ Now let's practice one more backgrounding technique with a different command.
 3. "Command Line Crash Course" http://learnpythonthehardway.org/book/appendixa.html
 4. "VIM 101" https://www.linux.com/learn/vim-101-beginners-guide-vim
 
+done reading the readme.
